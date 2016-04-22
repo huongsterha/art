@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"A",
+				"AlphabetJson"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "boo",
+		"selected_items":
+		[
+			[
+				"boo",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 279.0,
+		"history":
+		[
+			"chr(99)",
+			"chr(124)",
+			"chr(123)",
+			"ord('B')+13",
+			"ord('B')",
+			"ord('o')",
+			"ord('B')",
+			"chr(ord('B')+13)",
+			"ord('B')",
+			"chr(ord('B'))",
+			"char(ord('B'))",
+			"print(sys.version)",
+			"print sys.version",
+			"import sys",
+			"__version__",
+			"--version",
+			"import socket; s = socket.socket(socket.AF_INET, socket.SOCK_STREAM); s.connect(('localhost', 1234)); s.send(bytes('Hello World!\\n', 'utf8')); s.close()",
+			"subprocess.check_call([interpreter, '-c', 'pass'])",
+			"interpreter = helpers.get_settings(view, 'python_interpreter')",
+			"from Anaconda.anaconda_lib import helpers; import subprocess",
+			"os.getcwd()",
+			"os.listdir()",
+			"import sh",
+			"os.pwd()",
+			"import os",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jwj2/Box Sync/Research/art/scrape.py",
+		"/Users/jwj2/Box Sync/Research/art/get_image_details.py",
+		"/usr/local/caffe/src/caffe/solvers/sgd_solver.cpp",
+		"/usr/local/caffe/python/draw_net.py",
+		"/Users/jwj2/Box Sync/Research/art/parse_url.py",
+		"/Users/jwj2/Box Sync/codewars/encryptor.py",
+		"/Users/jwj2/anaconda/pkgs/nltk-3.1-py35_0/lib/python3.5/site-packages/nltk/draw/cfg.py",
+		"/Users/jwj2/Desktop/make_db.sh",
+		"/Users/jwj2/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jwj2/Desktop/gui.py",
+		"/Users/jwj2/Box Sync/UNHM/Teach/2016/Spring/DATA 557/taxis_database_schema",
+		"/Users/jwj2/Box Sync/UNHM/Teach/2016/Spring/COMP 490/hello_world.py",
+		"/Volumes/data/taxis_old/count_lines.py",
+		"/Users/jwj2/Box Sync/heart/prep_images.py",
+		"/Users/jwj2/Box Sync/heart/create_lmdb.py",
+		"/Users/jwj2/Box Sync/heart/train_test.prototxt",
+		"/Users/jwj2/Box Sync/heart/heart_synthetic_solver.prototxt",
+		"/Users/jwj2/Box Sync/heart/train_test.prototxt.proto",
+		"/Users/jwj2/Box Sync/heart/heart_train_test_synthetic.prototxt",
+		"/Users/jwj2/Box Sync/heart/lenet_solver.prototxt",
+		"/Users/jwj2/Box Sync/heart/heart_ex_train_test.prototxt",
+		"/Users/jwj2/Box Sync/heart/create_lmdb_example.py",
+		"/Users/jwj2/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jwj2/Box Sync/heart/image_process.py",
+		"/Users/jwj2/Box Sync/heart/30channel_image.py",
+		"/Users/jwj2/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/jwj2/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jwj2/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/jwj2/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/jwj2/Box Sync/make_lmdbs.py",
+		"/Users/jwj2/Box Sync/image_process.py",
+		"/Users/jwj2/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/usr/local/bin/sublime"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"ord(msg[i])",
+			"msg[i]",
+			"symbol",
+			"BathcN",
+			"stride:",
+			"N"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"x",
+			"msg[i]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 222.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "art.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
